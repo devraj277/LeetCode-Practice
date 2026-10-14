@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/devraj277/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/devraj277/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/devraj277/LeetCode-Practice/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/devraj277/LeetCode-Practice/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/devraj277/LeetCode-Practice/tree/master/0217-contains-duplicate) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/devraj277/LeetCode-Practice/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
