@@ -3,17 +3,9 @@
  * @return {number[]}
  */
 var runningSum = function(nums) {
-    let n = nums.length;
-    let rsarr = [n];
-    let index = 0, sum=0;
-    for(let i=0; i<n; i++)
+    for(let i=1; i<nums.length; i++)
     {
-        for(let j=0 ; j<=index; j++){
-            sum += nums[j];
-        }
-        index++;
-        rsarr[i] = sum;
-        sum=0;
+        nums[i] = nums[i] + nums[i-1];
     }
-    return rsarr;
+    return nums;
 };
