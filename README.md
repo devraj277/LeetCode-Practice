@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/devraj277/LeetCode-Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/devraj277/LeetCode-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1512-number-of-good-pairs](https://github.com/devraj277/LeetCode-Practice/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/devraj277/LeetCode-Practice/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
@@ -15,8 +16,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/devraj277/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/devraj277/LeetCode-Practice/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/devraj277/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/devraj277/LeetCode-Practice/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/devraj277/LeetCode-Practice/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
