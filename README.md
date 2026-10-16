@@ -48,8 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devraj277/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/devraj277/LeetCode-Practice/tree/master/0242-valid-anagram) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devraj277/LeetCode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devraj277/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devraj277/LeetCode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
