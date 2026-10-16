@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devraj277/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/devraj277/LeetCode-Practice/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/devraj277/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devraj277/LeetCode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Trie
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devraj277/LeetCode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/devraj277/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
