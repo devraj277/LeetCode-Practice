@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/devraj277/LeetCode-Practice/tree/master/0202-happy-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/devraj277/LeetCode-Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/devraj277/LeetCode-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/devraj277/LeetCode-Practice/tree/master/1512-number-of-good-pairs) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/devraj277/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/devraj277/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/devraj277/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [1512-number-of-good-pairs](https://github.com/devraj277/LeetCode-Practice/tree/master/1512-number-of-good-pairs) |
@@ -61,5 +63,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/devraj277/LeetCode-Practice/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devraj277/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/devraj277/LeetCode-Practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
