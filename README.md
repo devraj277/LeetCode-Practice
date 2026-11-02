@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/devraj277/LeetCode-Practice/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/devraj277/LeetCode-Practice/tree/master/0217-contains-duplicate) |
+| [0682-baseball-game](https://github.com/devraj277/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [1480-running-sum-of-1d-array](https://github.com/devraj277/LeetCode-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/devraj277/LeetCode-Practice/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/devraj277/LeetCode-Practice/tree/master/1672-richest-customer-wealth) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/devraj277/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devraj277/LeetCode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Two Pointers
 |  |
@@ -73,5 +75,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/devraj277/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [1518-water-bottles](https://github.com/devraj277/LeetCode-Practice/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
