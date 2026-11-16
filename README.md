@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/devraj277/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/devraj277/LeetCode-Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/devraj277/LeetCode-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/devraj277/LeetCode-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -77,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/devraj277/LeetCode-Practice/tree/master/0682-baseball-game) |
 | [1518-water-bottles](https://github.com/devraj277/LeetCode-Practice/tree/master/1518-water-bottles) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/devraj277/LeetCode-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 <!---LeetCode Topics End-->
